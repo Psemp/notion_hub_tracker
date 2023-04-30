@@ -1,8 +1,6 @@
-numpy
-pandas
+PyGithub
 flake8
 python-dotenv
 requests
-Pillow
 pytest
 urllib3

@@ -17,7 +17,10 @@ NOTION_DB_ID = os.getenv("NOTION_DB_ID")
 
 g = Github(GH_ACCESS_TOKEN)
 
-user = g.get_user(login="psemp")
+# github account
+github_login = "psemp"
+
+user = g.get_user(login=github_login)
 
 repos = user.get_repos()
 
