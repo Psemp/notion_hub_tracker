@@ -6,6 +6,8 @@ imgs/*
 data/*
 heavy/*
 private/*
+test_nb.ipynb
+.repo_ignore
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
