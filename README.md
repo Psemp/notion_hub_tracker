@@ -13,3 +13,9 @@ The program will fetch the public repositories from the specified GitHub account
 ## Dependencies
 
 - requirements.txt
+
+
+## Improvements :
+- Checking if repo already in DB
+- Adding datetime as json in requests
+- Updater (description/date/progress)
